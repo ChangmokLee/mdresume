@@ -2,7 +2,6 @@
 layout: cv
 title: Brigham Young's Resume
 ---
-<div align="center">
 
 # Changmok Lee
 
@@ -52,7 +51,6 @@ _January 2023 - April 2023_
 - Assisted in the transition of Japanese and Korean students to American education.
 - Mentored new students, introducing them to university facilities and systems.
 
-</div>
 
 <!-- ### Footer
 
