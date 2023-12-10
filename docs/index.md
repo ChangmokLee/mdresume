@@ -2,85 +2,57 @@
 layout: cv
 title: Brigham Young's Resume
 ---
-# Brigham Young
-The second prophet of The Church of Jesus Christ of Latter-day Saints.
+<div align="center">
 
-<div id="webaddress">
-<a href="datascience@byui.edu">datascience@byui.edu</a>
-| <a href="https://byuidatascience.github.io/development.html">Data Science Program</a>
-| <a href="https://www.linkedin.com/groups/13537407/">LinkedIn</a>
-| <a href="https://github.com/byuids-resumes">GitHub</a>
-</div>
+# Changmok Lee
 
-<!-- https://www.monique.tech/the-art-of-markdown -->
+📞 986 497 4651 | ✉️ [changmoklee1@gmail.com](mailto:changmoklee1@gmail.com) | 🔗 [LinkedIn](https://www.linkedin.com/in/changmoklee)
+
+---
 
 ## Education
+### Brigham Young University - Idaho
+**April 2017 - April 2024**
+- **Degree:** BS in Computer Science
+- **GPA:** 3.73
 
-`2025-2027`
-__LDS Business College__, Salt Lake City, UT
+---
 
-- Full academic scholarship with 4.0 GPA
+## Work Experience
+### Tutor, CSE111 Python Programming
+_Brigham Young University Idaho, Rexburg, Idaho_  
+_September 2023 - December 2023_
+- Evaluated and graded Python assignments for approximately 100 students every 3 days.
+- Guided students in Python fundamentals: variables, data types, loops, conditionals, functions, and basic data structures.
 
-`Expected 2029`
-__Brigham Young University - Idaho__, Rexburg, ID
+### Team Leader
+_Social Service Training Center, Busan, South Korea_  
+_June 2019 - December 2019_
+- Led and mentored a team of 10 trainees.
+- Collaborated with staff to enhance training modules and emergency response techniques.
 
-- 4.0 Major GPA
+### Company Commander Trainee
+_Republic of Korea Army, Haman, South Korea_  
+_August 2018 - September 2018_
+- Directed training for 400 trainees.
+- Maintained inventory and distribution of weapons.
 
+---
 
-## Related Experience
+## Skills
+- **Programming Languages:** C++, C#, Python
+- **Web Technologies:** CSS
 
-### Internships
+---
 
-`January 2028 - June 2028`
-__Pacific Northwest National Lab__, Richland, WA
+## Volunteer Work
+### Student Mentor
+_Brigham Young University-Idaho, Rexburg, ID_  
+_January 2023 - April 2023_
+- Assisted in the transition of Japanese and Korean students to American education.
+- Mentored new students, introducing them to university facilities and systems.
 
-- Worked on novel methods for soil sampling to reduce laboratory measurements
-- Used R and Visual Sample Plan to establish new sampling algorithms
-- Published a journal article in Environmental Quality.
-
-### Data Science Lead
-
-`April 2027 - June 2027`
-__Westmark Credit Union__, Consultant
-
-- Developed a predicted model to support Westmark in custumer conversion from dealer loans.
-- Used R and Python to build a machine learning model using CatBoost in Python and the Tidyverse for data visualization and munging. 
-- Improved previous model development to over 85% balanced accuracy. Expect model to be implemented in Westmark business practices.
-
-`September 2027 - April 2028`
-__Good2Go__, Consultant
-
-- Built product ordering and supply predictive algorithms for chips and beverages categories
-- Established standardized SQL calls and connections for PowerBI dashboards
-- Found over $35k in waste and saved over 200 annual hours of store quality control work 
-
-### Data Science Consulting Team
-
-`January 2027 - April 2027`
-__Imagine Learning__
-
-- Build web scraping tool to find and format school district technology data.
-- Used R and the Rvest package to parse and format web data.
-- Saved 30 hours a month with the automated scripts.
-
-`April 2027 - July 2027`
-__Pinnacle Management Group__, 
-
-- Proof of concept development of dashboards using client's corporate data.
-- Built and documented differences of PowerBI, Google Dashoards, and Tableau.
-- Saved client $10k in database and dashboard server fees and validated future dashboard processes.
-
-
-## Service and Work History
-
-`2025-2027`
-__Math Tutor__, LDSBC
-
-
-`2023-2025`
-__Service Missionary__, South Africa
-
-
+</div>
 
 <!-- ### Footer
 
